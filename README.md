@@ -1,11 +1,11 @@
-# 🧭 Admin Dashboard UI
+# Admin Dashboard UI
 
 A simple and clean **admin dashboard layout** built while learning **Tailwind CSS**.  
 This mini project was created to understand the fundamentals of **layouts, grids, flex utilities, and responsive design** using Tailwind 3.
 
 ---
 
-## 📘 About
+## About
 
 This project is a basic **dashboard interface**, similar to what you’d find in admin panels or analytics tools.  
 It includes a sidebar, a top navigation bar (header), and a responsive grid of cards that adjust to different screen sizes.  
@@ -17,7 +17,7 @@ The goal of this exercise was to:
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 To start using or editing this project, you’ll need **Tailwind CSS 3** installed locally.
 
@@ -36,7 +36,7 @@ npm install -D tailwindcss@3
 npx tailwindcss init -d
 ```
 
-### 🧱 Build and Watch
+### Build and Watch
 
 Once Tailwind is set up, you can build and watch for changes:
 
@@ -49,7 +49,7 @@ This will compile your Tailwind styles and update automatically when you make ch
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - **HTML5** – for structure  
 - **Tailwind CSS 3** – for styling and layout  
@@ -57,13 +57,13 @@ This will compile your Tailwind styles and update automatically when you make ch
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![Dashboard Preview](./preview.png)
 
 ---
 
-## 🧑‍💻 What I Learned
+## What I Learned
 
 - Building a full-page layout with `flex` and `grid`.
 - Making a responsive dashboard interface.
@@ -72,12 +72,12 @@ This will compile your Tailwind styles and update automatically when you make ch
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.  
 Feel free to use it for learning or your own small projects.
 
 ---
 
-Created by **<Your Name>**  
-Learning and improving one Tailwind component at a time 💪
+Created by **<Blevins>**  
+Learning and improving one Tailwind component at a time.
