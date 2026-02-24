@@ -80,4 +80,5 @@ Feel free to use it for learning or your own small projects.
 ---
 
 Created by blevins_dev 
+
 Learning and improving one Tailwind component at a time.
